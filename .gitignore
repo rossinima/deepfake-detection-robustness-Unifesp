@@ -1,0 +1,15 @@
+# Ambientes virtuais
+.venv/
+__pycache__/
+
+# Pastas de dados pesadas (Imagens e Vídeos)
+data/
+frames/
+frames_split/
+
+# Arquivos de modelos (opcional, se forem muito grandes para o GitHub)
+models/*.keras
+models/*.h5
+
+# Arquivos do sistema
+.DS_Store
